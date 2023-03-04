@@ -90,6 +90,9 @@ a:hover{
         transition: all .5s ease;
         
     }
+    .ul-show{
+        display: block;
+    }
 
     .btn-container{
         display: block;
